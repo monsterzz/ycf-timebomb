@@ -1,0 +1,7 @@
+{
+  "name": "ycf-timebomb",
+  "version": "1.0.0",
+  "devDependencies": {
+    "yandex-cloud": "^1.4.2"
+  }
+}
